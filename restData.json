@@ -1,0 +1,16 @@
+{
+  "docentes": [
+    {
+      "ru": "111",
+      "nombre": "luis miguel",
+      "ap": "choque",
+      "am": "farfan",
+      "ecivil": "soltero",
+      "lugarNacimiento": "Tarija",
+      "usuario": "judas",
+      "clave": "judas123",
+      "repClave": "judas123",
+      "id": 1
+    }
+  ]
+}
